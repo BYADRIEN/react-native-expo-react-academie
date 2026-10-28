@@ -1,50 +1,45 @@
-# Welcome to your Expo app 👋
+Yuka Clone 🥗📱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Application mobile inspirée de Yuka, développée avec React Native et Expo.
 
-## Get started
+Ce projet a été réalisé dans le cadre de mon apprentissage de React Native en suivant la formation de React Académie.
 
-1. Install dependencies
+🚀 Fonctionnalités
 
-   ```bash
-   npm install
-   ```
+📷 Scan de codes-barres
 
-2. Start the app
+🔎 Recherche des produits
 
-   ```bash
-   npx expo start
-   ```
+🥫 Récupération des informations nutritionnelles
 
-In the output, you'll find options to open the app in a
+💾 Sauvegarde des produits scannés
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+📊 Analyse des nutriments
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+✅ Identification des nutriments favorables
 
-## Get a fresh project
+⚠️ Identification des nutriments à limiter
 
-When you're ready, run:
+📱 Navigation entre les différentes pages de l'application
 
-```bash
-npm run reset-project
-```
+🛠️ Technologies
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+React Native
 
-## Learn more
+Expo
 
-To learn more about developing your project with Expo, look at the following resources:
+TypeScript
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Expo Router
 
-## Join the community
+AsyncStorage
 
-Join our community of developers creating universal apps.
+Axios
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Open Food Facts API
+
+🎯 Objectif
+
+Ce projet me permet de mettre en pratique React Native, les composants, les hooks, la navigation, la gestion des données locales et la consommation d'une API REST à travers une application concrète.
+
+Projet réalisé à des fins d'apprentissage en suivant la formation de React Académie.
